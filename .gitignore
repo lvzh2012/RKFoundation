@@ -1,0 +1,14 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.swiftpm
+
+# XCFramework zip files (if using GitHub Releases)
+*.xcframework.zip
+
