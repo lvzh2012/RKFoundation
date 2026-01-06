@@ -1,0 +1,31 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "tospm",
+          "kind" : "root",
+          "location" : "/Users/zhenhua/Desktop/Demos/ToSPM",
+          "name" : "ToSPM"
+        },
+        "path" : "/Users/zhenhua/Desktop/Demos/ToSPM/RKFoundation.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "RKFoundation"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
