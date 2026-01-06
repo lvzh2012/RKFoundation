@@ -12,3 +12,11 @@ build/
 # XCFramework zip files (if using GitHub Releases)
 *.xcframework.zip
 
+# Release scripts and files
+update-package-url.sh
+release.sh
+generate-checksum.sh
+RKFoundation.xcframework.zip.checksum
+RELEASE_GUIDE.md
+RKFoundation.xcframework
+
